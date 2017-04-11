@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class cjq1
+public class pancakeflipper
 {
     public static void main(String args[])throws IOException
     {
